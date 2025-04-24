@@ -1,4 +1,4 @@
-package main.java.jdbc;
+package main.java.이론;
 
 /*
     인텔리제이 환경설정

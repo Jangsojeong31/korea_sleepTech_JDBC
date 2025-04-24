@@ -1,4 +1,4 @@
-package main.java.jdbc;
+package main.java.이론;
 
 /*
 ==== JDBC 환경 설정 ====

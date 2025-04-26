@@ -31,7 +31,6 @@ package main.java.이론;
 == Spring Boot 프로젝트에서 사용 방법 ==
 1. 객체 중심 설계, 유지보수가 편한 구조가 필요 JPA
 2. 복잡한 JOIN, 서브쿼리가 많고 SQL 제어가 중요한 경우: MyBatis
-
  */
 
 public class DBConnection {
